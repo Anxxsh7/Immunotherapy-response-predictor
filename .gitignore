@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Data files (too large for git)
+*.gz
+*.csv
+*.xlsx
+*.txt
+!requirements.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# R
+.Rhistory
+.RData
+Rplots.pdf
+
+# Output plots
+*.pdf
